@@ -6,5 +6,7 @@ public class ThisIsMain
 	{
 		HelloWorld h = new HelloWorld();
 		h.hw();
+		OneMore om = new OneMore();
+		om.one();
 	}
 }
